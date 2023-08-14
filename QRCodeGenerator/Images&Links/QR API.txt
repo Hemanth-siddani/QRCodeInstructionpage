@@ -1,0 +1,9 @@
+QR API : https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Example
+
+ Alert ! Make sure you have a QR code scanner on your mobile before using this QR Code Generator.
+ 
+"Before you start using this QR Code Generator, make sure you have a QR code scanner installed on your mobile phone."
+
+
+
+
